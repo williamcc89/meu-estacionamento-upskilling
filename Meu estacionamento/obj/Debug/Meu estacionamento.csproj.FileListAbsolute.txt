@@ -1,0 +1,18 @@
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu estacionamento.csproj.AssemblyReference.cache
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu estacionamento.csproj.SuggestedBindingRedirects.cache
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu_estacionamento.MDIPrincipal.resources
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu_estacionamento.Properties.Resources.resources
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu estacionamento.csproj.GenerateResource.cache
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu estacionamento.csproj.CoreCompileInputs.cache
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\bin\Debug\Meu estacionamento.exe.config
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\bin\Debug\Meu estacionamento.exe
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\bin\Debug\Meu estacionamento.pdb
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu estacionamento.exe
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu estacionamento.pdb
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu_estacionamento.FormClientes.resources
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu_estacionamento.Forms.FormVeiculos.resources
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu_estacionamento.Forms.FormEntradaSaida.resources
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu_estacionamento.Reports.FormRelReceitaDiaria.resources
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu_estacionamento.Reports.FormRelVeiculosEstacionados.resources
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu_estacionamento.Forms.FormConfigurarPreco.resources
+D:\code\Ânima\Upskilling .Net\Trabalhos\Meu estacionamento\Meu estacionamento\obj\Debug\Meu_estacionamento.FormSobre.resources
